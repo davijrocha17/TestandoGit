@@ -11,7 +11,8 @@ namespace Git_test2
         static void Main(string[] args)
         {
             Console.WriteLine(" Vitor é muito gato S2 ");
-
+            Console.WriteLine("legal");
+           
         }
     }
 }
